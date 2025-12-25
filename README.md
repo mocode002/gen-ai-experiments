@@ -1,6 +1,7 @@
 # Gen AI Experiments 🧪
 
-A collection of deep learning and generative AI experiments exploring sequence modeling, computer vision, and NLP. This repository contains practical implementations of custom neural network architectures using **PyTorch**.
+A collection of deep learning and generative AI experiments exploring sequence modeling, computer vision, and NLP. 
+This repository contains practical implementations of custom neural network architectures using **PyTorch**.
 
 ## 📂 Projects
 
@@ -17,7 +18,7 @@ A collection of deep learning and generative AI experiments exploring sequence m
 * **Data:** Flickr30k.
 
 ## 👨‍💻 Author
-**Mohamed **
+**Mohamed Bouroua**
 *Master's Student in Data Science & AI @ ENSA El Jadida*
 
 ---
